@@ -38,13 +38,11 @@ As a part of the one week Biohackathion 2019, we formed a working group on the S
 
 Both the SARS-CoV and SARS-CoV-2 virion surfaces contain the spike glycoprotein (S protein) that mediates virus entry into cells [yan2020structural]. The S protein is cleaved into subunits S1 and S2 upon viral infection. The S1 subunit contains the receptor binding domain (RBD) that binds to the peptidase domain (PD) of the angiotensin-converting enzyme 2 (ACE2). Recently, it has been shown that the $\alpha1$ and $\alpha2$ helices and the $\beta3$ and $\beta4$ antiparallel strands of the PD in ACE2 are involved in the binding of the RBD. The structurally important amino acid residues have also been found:
 
-\begin{itemize}
-\item Asp30
-\item Tyr41
-\item Gln42
-\item Lys353
-|item Arg357
-\end{itemize}
+* Asp30
+* Tyr41
+* Gln42
+* Lys353
+* Arg357
 
 
 
