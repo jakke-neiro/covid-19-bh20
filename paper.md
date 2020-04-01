@@ -47,25 +47,34 @@ Both the SARS-CoV and SARS-CoV-2 virion surfaces contain the spike glycoprotein 
 * Lys353
 * Arg357
 
-Before the st
+Before the structure of the Sars-Cov-2 had been verified, the following residues were held as critical and compared [wan2020receptor].
 
+* Thr31
+* Glu35
+* Asp38
+* Met82
+* Lys353
 
+However, several of the recently determined critical residues had not been included. 
 
-Recently, the ACE2 sequences from human (Homo sapiens), mouse (Mus musculus), Chinese rufous horseshoe bat (Rhinolophus sinicus), pangolin (Manis javanica), cat (Felis catus), dog (Canis lupus familiaris), ferret (Mustela putorius furo), hamster (Mesocricetus auratus), cow (Bos taurus), pig (Sus scrofa), rabbit (Oryctolagus cuniculus), and goat (Capra hircus) were analyzed for overall conservation [sun2020atlas]. Furthermore, the 31st and 253rd amino acids were shown to be conserved in all species except for mouse and rat. However, the comparative analysis did not take into account the latest structural information on Sars-CoV-2 and all critical residues, and the authors justified the high binding potential of ACE2 based on overall sequence similarity rather than critical resiudes. In addition, the analysis was only limited to 12 mammalian species, and by extending the analysis into all known mammalian ACE2 sequences would increase our knowledge on potential hosts and reservoirs of Sars-CoV-2. 
+Recently, the ACE2 sequences from human (Homo sapiens), mouse (Mus musculus), Chinese rufous horseshoe bat (Rhinolophus sinicus), pangolin (Manis javanica), cat (Felis catus), dog (Canis lupus familiaris), ferret (Mustela putorius furo), hamster (Mesocricetus auratus), cow (Bos taurus), pig (Sus scrofa), rabbit (Oryctolagus cuniculus), and goat (Capra hircus) were analyzed for overall conservation [sun2020atlas]. Furthermore, the 31st and 353rd amino acids were shown to be conserved in all species except for mouse and rat. However, the comparative analysis did not take into account the latest structural information on Sars-CoV-2 and all critical residues, e.g. the  and the authors justified the high binding potential of ACE2 based on overall sequence similarity rather than critical resiudes. In addition, the analysis was only limited to 12 mammalian species, and by extending the analysis into all known mammalian ACE2 sequences would increase our knowledge on potential hosts and reservoirs of Sars-CoV-2. 
 
 The ACE2 receptor in bats [@hou2010angiotensin].
 
 
 
-Here, we analyze the conservation of ACE2 and TMPSS2
+Here, we analyze the conservation of ACE2 with respect to the latest empirically verified critical residues for SARS-CoV-2 recognition. Furthermore, we analyze the 
 
 
 
 
 # 2. Materials and methods
-...
+All the 
 
 # 3. Results
+
+## 3.1  Alignment of ACE2
+
 
 ## 3.2 Alignment of TPMPSS2
 
@@ -73,6 +82,6 @@ Here, we analyze the conservation of ACE2 and TMPSS2
 
 # Discussion
 
-...
+Potential hosts and reservoirs of SARS-CoV-2. 
 
 # References
