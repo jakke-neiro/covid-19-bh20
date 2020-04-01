@@ -36,21 +36,16 @@ pasting above link (or yours) in
 
 As part of the one week Biohackathion 2019, we formed a working group on the Sars-CoV-2 receptors in animals.
 
-Logic  [@reasoned2nd].
+The ACE2 receptor in bats [@hou2010angiotensin].
 
 ![Logic programming resolver traverses the solution space to find all matches \label{fig}](./logic-programming.png)
 
-tches (see figure
-\ref{fig}). Much more detail on the rationale and implementations of
-miniKanren and logic programming are well summarized in Byrd's book
-\emph{The Reasoned Schemer, Second Edition} [@reasoned2nd], PhD thesis
-[@ByrdPhD], and [online](https://www.youtube.com/watch?v=eQL48qYDwp4)
-[talks](https://www.youtube.com/watch?v=o3AHnyEf7IE).
 
 # Materials and methods
+...
 
 # Discussion
 
-Lorem ipsum
+...
 
 # References
