@@ -32,7 +32,7 @@ pasting above link (or yours) in
 
 -->
 
-# Introduction
+# 1. Introduction
 
 As part of the one week Biohackathion 2019, we formed a working group on the Sars-CoV-2 receptors in animals.
 
@@ -41,8 +41,14 @@ The ACE2 receptor in bats [@hou2010angiotensin].
 
 
 
-# Materials and methods
+# 2. Materials and methods
 ...
+
+# 3. Results
+
+## 3.2 Alignment of TPMPSS2
+
+[Alignment](https://jakke-neiro.github.io/covid-19-bh20/TMPSS2_MView.html)
 
 # Discussion
 
