@@ -77,7 +77,9 @@ All the
 
 ## 3.1  Alignment of ACE2
 
-[Alignment](https://jakke-neiro.github.io/covid-19-bh20/ACE2_MView.html)
+[Snapshot from ACE2](./Covid19_ACE.png)
+
+[Full multiple sequence alignment](https://jakke-neiro.github.io/covid-19-bh20/ACE2_MView.html)
 
 
 ## 3.2 Alignment of TPMPSS2
