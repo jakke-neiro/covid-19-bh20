@@ -77,6 +77,8 @@ All the
 
 ## 3.1  Alignment of ACE2
 
+![Snapshot from ACE2](./Covid19_ACE_2.png)
+
 ![Snapshot from ACE2](./Covid19_ACE.png)
 
 [Full multiple sequence alignment](https://jakke-neiro.github.io/covid-19-bh20/ACE2_MView.html)
