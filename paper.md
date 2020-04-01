@@ -38,7 +38,7 @@ As part of the one week Biohackathion 2019, we formed a working group on the Sar
 
 The ACE2 receptor in bats [@hou2010angiotensin].
 
-![Pangolin \label{fig}](./pangolin.jpg)
+
 
 
 # Materials and methods
