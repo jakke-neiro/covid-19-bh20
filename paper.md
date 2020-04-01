@@ -36,7 +36,7 @@ pasting above link (or yours) in
 
 As a part of the one week Biohackathion 2019, we formed a working group on the phylogenomics of Sars-CoV-2 receptors in animals.
 
-Severe acute respiratory syndrome–coronavirus 2 (SARS-CoV-2) is a positive-strand RNA virus that causes the coronavirus disease 2019 (COVID-19), a severe pandemic that has resulted in tens of thounds of deaths worldwide [zhu2020novel]. The SARS-CoV-2 belongs to the same Betacoronavirus family as SARS-CoV and MERS-CoV that also have caused severe epidemics in the last two decades . The SARS-CoV-2 originated from some viral strain present in mammals, but the definitive origin and  
+Severe acute respiratory syndrome–coronavirus 2 (SARS-CoV-2) is a positive-strand RNA virus that causes the coronavirus disease 2019 (COVID-19), a severe pandemic that has resulted in tens of thounds of deaths worldwide [zhu2020novel]. The SARS-CoV-2 belongs to the same Betacoronavirus family as SARS-CoV and MERS-CoV that also have caused severe epidemics in the last two decades. The SARS-CoV-2 originated from some viral strain present in mammals, but the identity of the definitive original host and potential intermediate hosts has remained elusive [zhu2020novel].     
 
 Both the SARS-CoV and SARS-CoV-2 virion surfaces contain the spike glycoprotein (S protein) that mediates virus entry into cells [yan2020structural]. The S protein is cleaved into subunits S1 and S2 upon viral infection. The S1 subunit contains the receptor binding domain (RBD) that binds to the peptidase domain (PD) of the angiotensin-converting enzyme 2 (ACE2). Recently, it has been shown that the $\alpha1$ and $\alpha2$ helices and the $\beta3$ and $\beta4$ antiparallel strands of the PD in ACE2 are involved in the binding of the RBD. The structurally important amino acid residues have also been found:
 
@@ -71,7 +71,7 @@ Here, we analyze the conservation of ACE2 with respect to the latest empirically
 
 
 # 2. Materials and methods
-All the 
+All the ACE2 mammalian genes and corresponding amino acid sequences were downloaded from [NCBI](https://www.ncbi.nlm.nih.gov/gene/59272/ortholog/?scope=40674#genes-tab)(130 genes in total, see [Supplement] for species and IDs). Both experiemental and predicted sequences were used. The sequences were aligned with COBALT (Constraint-based Multiple ALignment Tool). 
 
 # 3. Results
 
